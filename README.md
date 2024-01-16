@@ -6,8 +6,6 @@ Prepare for a career in the **high-growth field of data science**. In this progr
 
 Content will include databases, data visualization, statistical analysis, predictive modeling, machine learning algorithms, and data mining.
 
-This Professional Certificate has a strong emphasis on **applied learning** and includes a series of hands-on labs in the IBM Cloud.
-
 **Tools**: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
 
 **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
