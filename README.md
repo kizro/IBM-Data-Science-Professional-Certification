@@ -1,6 +1,8 @@
 # IBM-Data-Science-Professional-Certification
 
-Prepare for a career in the high-growth field of data science. In this program, you’ll develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry-level data scientist in as little as 5 months. No prior knowledge of computer science or programming languages is required. 
+##Description 
+
+Prepare for a career in the **high-growth field of data science**. In this program, you’ll develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry-level data scientist in as little as 5 months. No prior knowledge of computer science or programming languages is required. 
 
 Data science involves gathering, cleaning, organizing, and analyzing data with the goal of extracting helpful insights and predicting expected outcomes. The demand for skilled data scientists who can use data to tell compelling stories to inform business decisions has never been greater. 
 
