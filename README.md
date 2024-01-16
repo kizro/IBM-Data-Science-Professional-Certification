@@ -1,6 +1,6 @@
 # IBM-Data-Science-Professional-Certification
 
-##Description##
+## Description
 
 Prepare for a career in the **high-growth field of data science**. In this program, you’ll develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry-level data scientist.
 
