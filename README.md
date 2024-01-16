@@ -25,3 +25,7 @@ This Professional Certificate has a strong emphasis on **applied learning** and 
  - Apply and compare machine learning classification algorithms to predict whether a loan case will be paid off or not
 
  - Train and compare machine learning models to predict if a space launch can reuse the first stage of a rocket
+
+ [!NOTE]
+
+The information presented in this repo is for personal use only. Quiz answers and the like will not be shared.
