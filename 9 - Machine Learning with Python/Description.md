@@ -1,4 +1,4 @@
-## Learning Objectives
+## Objectives
 
  - Describe the various types of Machine Learning algorithms and when to use them  
 
