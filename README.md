@@ -4,9 +4,9 @@
 
 Prepare for a career in the **high-growth field of data science**. In this program, you’ll develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry-level data scientist.
 
-**You’ll learn in-demand skills** used by professional data scientists including databases, data visualization, statistical analysis, predictive modeling, machine learning algorithms, and data mining.
+Content will include databases, data visualization, statistical analysis, predictive modeling, machine learning algorithms, and data mining.
 
-This Professional Certificate has a strong emphasis on **applied learning** and includes a series of hands-on labs in the IBM Cloud that give you practical skills with applicability to real jobs.
+This Professional Certificate has a strong emphasis on **applied learning** and includes a series of hands-on labs in the IBM Cloud.
 
 **Tools**: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
 
@@ -26,7 +26,8 @@ This Professional Certificate has a strong emphasis on **applied learning** and 
 
  - Train and compare machine learning models to predict if a space launch can reuse the first stage of a rocket
 
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+> [!NOTE]  
+> The information presented in this repo is for personal use only.
 
-The information presented in this repo is for personal use only. Quiz answers and the like will not be shared.
+> [!CAUTION]
+> Refrain from plagiarizing **ANY** labs or modules.
